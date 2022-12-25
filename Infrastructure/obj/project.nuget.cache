@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6A0aBgUn4pHCzSToqPMi78MiWVvDNFXHzs/x9K6esn9o0X09mqKR62TXIwYhmZieza7KL6x3Zb2ruSERHvSOw==",
+  "dgSpecHash": "bSS5dTJEStwaVJuT38+t/HMvBOVz2J/7ZbD1jCjgZN+s7i3iAunIdbJW5xagB+/JuTSB4jjvuMYdI/Zl+Kl3bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prabh\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\prabh\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

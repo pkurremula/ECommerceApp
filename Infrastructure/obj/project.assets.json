@@ -1034,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1056,8 +1056,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj"
+            "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Core\\Core.csproj": {
+              "projectPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Core\\Core.csproj"
             }
           }
         }

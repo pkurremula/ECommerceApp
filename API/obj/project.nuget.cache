@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FXQbsC8ZUad94CdxLda+2JZbvCRmU4u/kQiLPcms9ZU46UTvd0kewDPGNOHJlfF2f4475kixKAjQ7eZ9UqWc9Q==",
+  "dgSpecHash": "jABl6YIq1inUt3aRLNlLbFgHOioB8wctUtxO5Gwpev3S+uVPQNWpynYpKHIs5A1NbjcUaWM5FpAV1toV+vx9xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj",
+  "projectFilePath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prabh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\prabh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

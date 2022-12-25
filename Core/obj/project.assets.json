@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
+      "projectPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\obj\\",
+      "outputPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
