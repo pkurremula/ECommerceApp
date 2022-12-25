@@ -5,3 +5,7 @@ appsettings.json
 *.rdb
 publish
 wwwroot
+
+/API/bin
+/Infrastructure/bin
+/Core/bin
