@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\API.csproj": {}
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\API.csproj": {
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\API.csproj",
+        "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\obj\\",
+        "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj": {
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\obj\\",
+        "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -178,8 +178,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj"
+              "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj"
               }
             }
           }

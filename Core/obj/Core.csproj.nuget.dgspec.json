@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj": {}
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj": {
+    "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\Core\\obj\\",
+        "outputPath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,15 @@ C:\Users\prabh\source\repos\SkinetNew\Core\obj\Debug\net5.0\Core.dll
 C:\Users\prabh\source\repos\SkinetNew\Core\obj\Debug\net5.0\refint\Core.dll
 C:\Users\prabh\source\repos\SkinetNew\Core\obj\Debug\net5.0\Core.pdb
 C:\Users\prabh\source\repos\SkinetNew\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\prabh\source\repos\ECommerceApp\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\prabh\source\repos\ECommerceApp\Core\bin\Debug\net5.0\Core.dll
+C:\Users\prabh\source\repos\ECommerceApp\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.dll
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\prabh\source\repos\ECommerceApp\Core\obj\Debug\net5.0\ref\Core.dll

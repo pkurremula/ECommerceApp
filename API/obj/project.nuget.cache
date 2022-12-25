@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcg1HcF0uNkBcW4dhzjpNtdI824Pi+jHIuQ+ryOt0Kxt1+NS0mzgMb8CGL5h/+n1dfsbev4SjFIRjA09ZJDr8w==",
+  "dgSpecHash": "FXQbsC8ZUad94CdxLda+2JZbvCRmU4u/kQiLPcms9ZU46UTvd0kewDPGNOHJlfF2f4475kixKAjQ7eZ9UqWc9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prabh\\source\\repos\\SkinetNew\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\prabh\\source\\repos\\ECommerceApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prabh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\prabh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
