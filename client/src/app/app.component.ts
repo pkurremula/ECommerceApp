@@ -1,5 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
+import { IPagination } from './models/pagination';
+import { IProduct } from './models/product';
 
 @Component({
   selector: 'app-root',
@@ -10,17 +12,16 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit {
   title = 'SkiNet';
 
-  products: any[];
-  
-  constructor(private http:HttpClient) { }
+  products: IProduct[];
 
-  ngOnInit(): void{
-    this.http.get('https://localhost:5001/api/products').subscribe((response: any) => {
+  constructor(private http: HttpClient) { }
+
+  ngOnInit(): void {
+    this.http.get('https://localhost:5001/api/products').subscribe((response: IPagination) => {
       this.products = response.data;
-      console.log(response);
-      console.log(this.products);
+      console.log(response);      
     }, error => {
       console.log(error);
-    })    
+    })
   }
 }
