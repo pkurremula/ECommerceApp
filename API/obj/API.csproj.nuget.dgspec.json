@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\API\\API.csproj": {}
+    "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\API\\API.csproj": {
+    "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\API\\API.csproj",
+        "projectPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\prabh\\.nuget\\packages\\",
-        "outputPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\API\\obj\\",
+        "outputPath": "C:\\Prabhanjan\\Angular\\NewStart\\ECommerceApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
